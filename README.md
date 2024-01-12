@@ -1,6 +1,8 @@
 # awesome-ndmf
 An Index list for interesting projects based on the NDMF framework
 
+NDMF is a modular framework providing hooks for tools to run on play mode in unity.
+
 <https://github.com/bdunderscore/ndmf>
 
 # Project List
