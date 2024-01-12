@@ -37,6 +37,13 @@ Write concise code to generate Avatars 3.0 Animators.
 - Website: <https://docs.hai-vr.dev/docs/products/animator-as-code>
 - Source code: <https://github.com/hai-vr/animator-as-code-vrchat>
 
+## Vixen (Paid)
+A Unity Editor tool that provides another approach to create interactive elements and toggles on your avatar.
+
+- Author: **Haï**
+- Website: <https://docs.hai-vr.dev/docs/products/vixen>
+- Source code: Private
+
 ## Mantis LOD Editor
 Mantis LOD Editor のNDMF化ツール
 
