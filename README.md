@@ -44,7 +44,7 @@ A Unity Editor tool that provides another approach to create interactive element
 - Website: <https://docs.hai-vr.dev/docs/products/vixen>
 - Source code: Private
 
-## Mantis LOD Editor
+## NDMF Mantis LOD Editor
 Mantis LOD Editor のNDMF化ツール
 
 A tool to decimate unity meshes at runtime.
