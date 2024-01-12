@@ -79,7 +79,7 @@ A simple but advanced, non-destructive cabinet system
 
 - Author: **poi-vrc**
 - Website: <https://dressingtools.chocopoi.com>
-- Source code: <https://github.com/kurotu/VRCQuestTools>
+- Source code: <https://github.com/poi-vrc/DressingTools>
 
 # Other tools
 
