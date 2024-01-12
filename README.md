@@ -41,7 +41,7 @@ Write concise code to generate Avatars 3.0 Animators.
 Mantis LOD Editor のNDMF化ツール
 
 A tool to decimate unity meshes at runtime.
-- Author: **Haï**
+- Author: **Hitsub**
 - Website: <https://booth.pm/ja/items/5409262>
 - Source code: <https://github.com/hitsub/ndmf-mantis-lod-editor>
 
