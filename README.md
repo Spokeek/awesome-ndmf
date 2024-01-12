@@ -20,7 +20,7 @@ Non Destructive Avatar Optimization Utilities
 An optimization tools to increase avatar performance by reducing meshes, bones, physbones, etc.
 
 - Author: **Anatawa12**
-- Website: <https://vpm.anatawa12.com/avatar-optimizer/en/>
+- Website: <https://vpm.anatawa12.com/avatar-optimizer/en>
 - Source Code: <https://github.com/anatawa12/AvatarOptimizer>
 
 ## Prefabulous Avatar
@@ -63,6 +63,24 @@ A tool to merge materials by making custom atlases at runtime.
 - Website: <https://ttt.rs64.net>
 - Source code: <https://github.com/ReinaS-64892/TexTransTool>
 
+# To validate
+
+Those are projects that i found that haven't been tested, so use at your own risk.
+
+## VRCQuestTools
+Avatar Converter and Utilities for Android
+
+- Author: **kurotu**
+- Website: <https://kurotu.github.io/VRCQuestTools>
+- Source code: <https://github.com/kurotu/VRCQuestTools>
+
+## Dressing Tools
+A simple but advanced, non-destructive cabinet system
+
+- Author: **poi-vrc**
+- Website: <https://dressingtools.chocopoi.com>
+- Source code: <https://github.com/kurotu/VRCQuestTools>
+
 # Other tools
 
 Those tools are not based on NDMF but relates to the modular philosophy.
@@ -71,7 +89,7 @@ Those tools are not based on NDMF but relates to the modular philosophy.
 Non-Destructive Tools for VRChat Avatars
 
 - Author: **Senky**
-- Website: <https://vrcfury.com/>
+- Website: <https://vrcfury.com>
 - Source code: <https://github.com/VRCFury/VRCFury>
 
 
