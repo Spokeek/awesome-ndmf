@@ -43,6 +43,7 @@ A Unity Editor tool that provides another approach to create interactive element
 - Author: **Haï**
 - Website: <https://docs.hai-vr.dev/docs/products/vixen>
 - Source code: Private
+- Paid Tool
 
 ## NDMF Mantis LOD Editor
 Mantis LOD Editor のNDMF化ツール
@@ -51,6 +52,7 @@ A tool to decimate unity meshes at runtime.
 - Author: **Hitsub**
 - Website: <https://booth.pm/ja/items/5409262>
 - Source code: <https://github.com/hitsub/ndmf-mantis-lod-editor>
+- Requires a paid Tool to work
 
 ## TexTransTool
 Non-destructive modification of Texture
