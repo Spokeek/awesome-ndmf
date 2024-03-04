@@ -65,6 +65,13 @@ A tool to merge materials by making custom atlases at runtime.
 - Website: <https://ttt.rs64.net>
 - Source code: <https://github.com/ReinaS-64892/TexTransTool>
 
+## Avatar Menu Creater For MA
+Easily create a VRChat avatar menu with modular avatars 
+
+- Author: **Narazaka**
+- Website: <https://narazaka.github.io/AvatarMenuCreatorForMA-doc/index.html>
+- Source code: <https://github.com/Narazaka/AvatarMenuCreaterForMA>
+
 # To validate
 
 Those are projects that i found that haven't been tested, so use at your own risk.
