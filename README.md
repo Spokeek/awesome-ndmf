@@ -79,6 +79,13 @@ Generates animations of the lower/upper limits of shader brightness.
 - Website: <https://azukimochi.github.io/LLC-Docs>
 - Source code: <https://github.com/Azukimochi/LightLimitChangerForMA>
 
+##  FaceEmo
+Face emote configuration tool for VRChat Avatars 3.0
+
+- Author: **suzuryg**
+- Website: <https://suzuryg.github.io/face-emo>
+- Source code: <https://github.com/suzuryg/face-emo>
+
 # To validate
 
 Those are projects that i found that haven't been tested, so use at your own risk.
