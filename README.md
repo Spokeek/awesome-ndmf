@@ -86,10 +86,6 @@ Face emote configuration tool for VRChat Avatars 3.0
 - Website: <https://suzuryg.github.io/face-emo>
 - Source code: <https://github.com/suzuryg/face-emo>
 
-# To validate
-
-Those are projects that i found that haven't been tested, so use at your own risk.
-
 ## VRCQuestTools
 Avatar Converter and Utilities for Android
 
