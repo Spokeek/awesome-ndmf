@@ -72,6 +72,13 @@ Easily create a VRChat avatar menu with modular avatars
 - Website: <https://narazaka.github.io/AvatarMenuCreatorForMA-doc/index.html>
 - Source code: <https://github.com/Narazaka/AvatarMenuCreaterForMA>
 
+## Light Limit Changer
+Generates animations of the lower/upper limits of shader brightness.
+
+- Author: **Azukimochi**
+- Website: <https://azukimochi.github.io/LLC-Docs>
+- Source code: <https://github.com/Azukimochi/LightLimitChangerForMA>
+
 # To validate
 
 Those are projects that i found that haven't been tested, so use at your own risk.
