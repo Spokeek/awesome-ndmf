@@ -72,6 +72,13 @@ Easily create a VRChat avatar menu with modular avatars
 - Website: <https://narazaka.github.io/AvatarMenuCreatorForMA-doc/index.html>
 - Source code: <https://github.com/Narazaka/AvatarMenuCreaterForMA>
 
+## Floor Adjuster
+A non destructive tool to change the vertical position of an avatar
+
+- Author: **Narazaka**
+- Website: <https://github.com/Narazaka/FloorAdjuster>
+- Source code: <https://github.com/Narazaka/FloorAdjuster>
+
 ## Light Limit Changer
 Generates animations of the lower/upper limits of shader brightness.
 
