@@ -107,6 +107,24 @@ A simple but advanced, non-destructive cabinet system
 - Website: <https://dressingtools.chocopoi.com>
 - Source code: <https://github.com/poi-vrc/DressingTools>
 
+## lilNDMFMeshSimplifier
+Simplify meshes at build time. 
+- Author: **lilxyzw**
+- Website: <https://github.com/lilxyzw/lilNDMFMeshSimplifier>
+- Source code: <https://github.com/lilxyzw/lilNDMFMeshSimplifier>
+
+## lilNDMFMeshSimplifier
+Simplify meshes at build time. 
+- Author: **lilxyzw**
+- Website: <https://github.com/lilxyzw/lilNDMFMeshSimplifier>
+- Source code: <https://github.com/lilxyzw/lilNDMFMeshSimplifier>
+
+## lilycalInventory
+A magical inventory system that allows you to easily create menus by simply attaching components.
+- Author: **lilxyzw**
+- Website: <https://lilxyzw.github.io/lilycalInventory>
+- Source code: <https://github.com/lilxyzw/lilycalInventory>
+
 # Other tools
 
 Those tools are not based on NDMF but relates to the modular philosophy.
