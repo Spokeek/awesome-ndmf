@@ -22,8 +22,8 @@ This list is listed the curated list of packages using NDMF.
 | [Avatar Optimizer](https://github.com/anatawa12/AvatarOptimizer) | [Anatawa12](https://github.com/anatawa12) |
 | [Prefabulous Avatar](https://github.com/hai-vr/prefabulous-avatar) | [Haï~](https://github.com/hai-vr) |
 | [Animator As Code](https://github.com/hai-vr/animator-as-code-vrchat) | [Haï~](https://github.com/hai-vr) |
-| [Avatar Menu Creater For MA](https://github.com/Narazaka/FloorAdjuster) | [Narazaka](https://github.com/Narazaka) |
-| [Floor Adjuster](https://github.com/Azukimochi/LightLimitChangerForMA) | [Azukimochi](https://github.com/Azukimochi) |
+| [Avatar Menu Creater For MA](https://github.com/Narazaka/AvatarMenuCreaterForMA) | [Narazaka](https://github.com/Narazaka) |
+| [Floor Adjuster](https://github.com/Narazaka/FloorAdjuster) | [Azukimochi](https://github.com/Azukimochi) |
 | [Light Limit Changer](https://github.com/Azukimochi/LightLimitChangerForMA) | [Azukimochi](https://github.com/Azukimochi) |
 | [FaceEmo](https://github.com/suzuryg/face-emo) | [Suzuryg](https://github.com/suzuryg) |
 | [VRCQuestTools](https://github.com/kurotu/VRCQuestTools) | [Kurotu](https://github.com/kurotu) |
