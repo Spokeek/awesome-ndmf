@@ -1,144 +1,62 @@
-# awesome-ndmf
-An Index list for interesting projects based on the NDMF framework
+# Awesome NDMF [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-NDMF is a modular framework providing hooks for tools to run on play mode in unity.
+> A curated lists of NDMF based VPM packages
+>
+> [NDMF](https://github.com/bdunderscore/ndmf) is a modular framework providing hooks for tools to create non destructive workflows in [Unity](https://unity.com).
+>
+> Most of those packages are related to the [VRChat SDK](https://github.com/vrchat/packages) of the [VRChat platform](https://vrchat.com), but it is not always the case.
 
-<https://github.com/bdunderscore/ndmf>
+## Contents
 
-# Project List
+- [Curated packages](#curated-packages)
+- [Non FOSS packages](#non-foss-packages)
+- [Upcoming packages](#non-foss-packages)
 
-## Modular Avatar
-Drag-and-Drop Avatar Assembly
+### Curated packages
 
-Various tools to work with most vrchat related items like vrchat menus, parameters, layers, etc.
+This list is listed the curated list of packages using NDMF.
 
-- Author: **bd_**
-- Website: <https://modular-avatar.nadena.dev>
-- Source code: <https://github.com/bdunderscore/modular-avatar>
+- [Modular Avatar](https://github.com/bdunderscore/modular-avatar) from [_bd](https://github.com/bdunderscore)
+- [Avatar Optimizer](https://github.com/anatawa12/AvatarOptimizer) from [Anatawa12](https://github.com/anatawa12)
+- [Prefabulous Avatar](https://github.com/hai-vr/prefabulous-avatar) from [Haï~](https://github.com/hai-vr)
+- [Animator As Code](https://github.com/hai-vr/animator-as-code-vrchat) from [Haï~](https://github.com/hai-vr)
+- [NDMF mantis lod editor](https://github.com/hitsub/ndmf-mantis-lod-editor) from [Hitsub](https://github.com/hitsub)
+- [TexTransTool](https://github.com/ReinaS-64892/TexTransTool) from [Reina_Sakiria](https://github.com/ReinaS-64892)
+- [Avatar Menu Creater For MA](https://github.com/Narazaka/FloorAdjuster) from [Narazaka](https://github.com/Narazaka)
+- [Floor Adjuster](https://github.com/Azukimochi/LightLimitChangerForMA) from [Azukimochi](https://github.com/Azukimochi)
+- [Light Limit Changer](https://github.com/Azukimochi/LightLimitChangerForMA) from [Azukimochi](https://github.com/Azukimochi)
+- [FaceEmo](https://github.com/suzuryg/face-emo) from [Suzuryg](https://github.com/suzuryg)
+- [VRCQuestTools](https://github.com/kurotu/VRCQuestTools) from [Kurotu](https://github.com/kurotu)
+- [Dressing Tools](https://github.com/poi-vrc/DressingTools) from [Poi-vrc](https://github.com/poi-vrc)
+- [lilNDMFMeshSimplifier](https://github.com/lilxyzw/lilNDMFMeshSimplifier) from [Lilxyzw](https://github.com/lilxyzw)
+- [lilycalInventory](https://github.com/lilxyzw/lilycalInventory) from [Lilxyzw](https://github.com/lilxyzw)
 
-## Avatar Optimizer
-Non Destructive Avatar Optimization Utilities
+### Non FOSS packages
 
-An optimization tools to increase avatar performance by reducing meshes, bones, physbones, etc.
+This list contains validated awesome packages but that are not following the FOSS philosophy.
 
-- Author: **Anatawa12**
-- Website: <https://vpm.anatawa12.com/avatar-optimizer/en>
-- Source Code: <https://github.com/anatawa12/AvatarOptimizer>
+- [Vixen](https://docs.hai-vr.dev/docs/products/vixen) from [Haï~](https://github.com/hai-vr)
 
-## Prefabulous Avatar
-Automate invasive tasks in your personal avatar.
+### Upcoming packages
 
-- Author: **Haï**
-- Website: <https://docs.hai-vr.dev/docs/products/prefabulous-avatar>
-- Source code: <https://github.com/hai-vr/prefabulous-avatar>
+This list contains packages that are still being worked on but not ready to be integrated in the curated list yet.
 
-## Animator As Code
-Write concise code to generate Avatars 3.0 Animators.
+## Code of conduct
 
-- Author: **Haï**
-- Website: <https://docs.hai-vr.dev/docs/products/animator-as-code>
-- Source code: <https://github.com/hai-vr/animator-as-code-vrchat>
+Please follow the [code of conduct](CODE_OF_CONDUCT.md) document when contributing to this project.
 
-## Vixen
-A Unity Editor tool that provides another approach to create interactive elements and toggles on your avatar.
+## Contribute
 
-- Author: **Haï**
-- Website: <https://docs.hai-vr.dev/docs/products/vixen>
-- Source code: Private
-- Paid Tool
+Contributions are greatly appreciated !
+Read the [contribution guidelines](CONTRIBUTING.md) first then leave a PR.
 
-## NDMF Mantis LOD Editor
-Mantis LOD Editor のNDMF化ツール
+## Credits
 
-A tool to decimate unity meshes at runtime.
-- Author: **Hitsub**
-- Website: <https://booth.pm/ja/items/5409262>
-- Source code: <https://github.com/hitsub/ndmf-mantis-lod-editor>
-- Requires a paid Tool to work
+- Thank you to [sindresorhus](https://github.com/sindresorhus) for the creation of the **Awesome** Concept.
+See the details in [awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
-## TexTransTool
-Non-destructive modification of Texture
+- Thank you to [dar5hak](https://github.com/dar5hak) for the generation of the base listing with the [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list).
 
-A tool to merge materials by making custom atlases at runtime.
+- Thank you to [_bd](https://github.com/bdunderscore) for the creation of [NDMF](https://github.com/bdunderscore/ndmf) itself and [Modular Avatar](https://github.com/bdunderscore/modular-avatar) in the first place.
 
-- Author: **ReinaS_64892**
-- Website: <https://ttt.rs64.net>
-- Source code: <https://github.com/ReinaS-64892/TexTransTool>
-
-## Avatar Menu Creater For MA
-Easily create a VRChat avatar menu with modular avatars 
-
-- Author: **Narazaka**
-- Website: <https://narazaka.github.io/AvatarMenuCreatorForMA-doc/index.html>
-- Source code: <https://github.com/Narazaka/AvatarMenuCreaterForMA>
-
-## Floor Adjuster
-A non destructive tool to change the vertical position of an avatar
-
-- Author: **Narazaka**
-- Website: <https://github.com/Narazaka/FloorAdjuster>
-- Source code: <https://github.com/Narazaka/FloorAdjuster>
-
-## Light Limit Changer
-Generates animations of the lower/upper limits of shader brightness.
-
-- Author: **Azukimochi**
-- Website: <https://azukimochi.github.io/LLC-Docs>
-- Source code: <https://github.com/Azukimochi/LightLimitChangerForMA>
-
-##  FaceEmo
-Face emote configuration tool for VRChat Avatars 3.0
-
-- Author: **suzuryg**
-- Website: <https://suzuryg.github.io/face-emo>
-- Source code: <https://github.com/suzuryg/face-emo>
-
-## VRCQuestTools
-Avatar Converter and Utilities for Android
-
-- Author: **kurotu**
-- Website: <https://kurotu.github.io/VRCQuestTools>
-- Source code: <https://github.com/kurotu/VRCQuestTools>
-
-## Dressing Tools
-A simple but advanced, non-destructive cabinet system
-
-- Author: **poi-vrc**
-- Website: <https://dressingtools.chocopoi.com>
-- Source code: <https://github.com/poi-vrc/DressingTools>
-
-## lilNDMFMeshSimplifier
-Simplify meshes at build time. 
-- Author: **lilxyzw**
-- Website: <https://github.com/lilxyzw/lilNDMFMeshSimplifier>
-- Source code: <https://github.com/lilxyzw/lilNDMFMeshSimplifier>
-
-## lilNDMFMeshSimplifier
-Simplify meshes at build time. 
-- Author: **lilxyzw**
-- Website: <https://github.com/lilxyzw/lilNDMFMeshSimplifier>
-- Source code: <https://github.com/lilxyzw/lilNDMFMeshSimplifier>
-
-## lilycalInventory
-A magical inventory system that allows you to easily create menus by simply attaching components.
-- Author: **lilxyzw**
-- Website: <https://lilxyzw.github.io/lilycalInventory>
-- Source code: <https://github.com/lilxyzw/lilycalInventory>
-
-# Other tools
-
-Those tools are not based on NDMF but relates to the modular philosophy.
-
-## VRCFury
-Non-Destructive Tools for VRChat Avatars
-
-- Author: **Senky**
-- Website: <https://vrcfury.com>
-- Source code: <https://github.com/VRCFury/VRCFury>
-
-
-# Suggestions
-
-Feel absolutely free to suggest new tools with an issue that i could add to this list.
-
-Or contact me if you want to share something that could be interesting
+- Thank you to all the amazing people working on the tools and projects listed here.
