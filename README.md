@@ -20,15 +20,12 @@ This list is listed the curated list of packages using NDMF.
 - [Avatar Optimizer](https://github.com/anatawa12/AvatarOptimizer) from [Anatawa12](https://github.com/anatawa12)
 - [Prefabulous Avatar](https://github.com/hai-vr/prefabulous-avatar) from [Haï~](https://github.com/hai-vr)
 - [Animator As Code](https://github.com/hai-vr/animator-as-code-vrchat) from [Haï~](https://github.com/hai-vr)
-- [NDMF mantis lod editor](https://github.com/hitsub/ndmf-mantis-lod-editor) from [Hitsub](https://github.com/hitsub)
-- [TexTransTool](https://github.com/ReinaS-64892/TexTransTool) from [Reina_Sakiria](https://github.com/ReinaS-64892)
 - [Avatar Menu Creater For MA](https://github.com/Narazaka/FloorAdjuster) from [Narazaka](https://github.com/Narazaka)
 - [Floor Adjuster](https://github.com/Azukimochi/LightLimitChangerForMA) from [Azukimochi](https://github.com/Azukimochi)
 - [Light Limit Changer](https://github.com/Azukimochi/LightLimitChangerForMA) from [Azukimochi](https://github.com/Azukimochi)
 - [FaceEmo](https://github.com/suzuryg/face-emo) from [Suzuryg](https://github.com/suzuryg)
 - [VRCQuestTools](https://github.com/kurotu/VRCQuestTools) from [Kurotu](https://github.com/kurotu)
 - [Dressing Tools](https://github.com/poi-vrc/DressingTools) from [Poi-vrc](https://github.com/poi-vrc)
-- [lilNDMFMeshSimplifier](https://github.com/lilxyzw/lilNDMFMeshSimplifier) from [Lilxyzw](https://github.com/lilxyzw)
 - [lilycalInventory](https://github.com/lilxyzw/lilycalInventory) from [Lilxyzw](https://github.com/lilxyzw)
 
 ### Non FOSS packages
@@ -40,6 +37,10 @@ This list contains validated awesome packages but that are not following the FOS
 ### Upcoming packages
 
 This list contains packages that are still being worked on but not ready to be integrated in the curated list yet.
+
+- [NDMF mantis lod editor](https://github.com/hitsub/ndmf-mantis-lod-editor) from [Hitsub](https://github.com/hitsub)
+- [TexTransTool](https://github.com/ReinaS-64892/TexTransTool) from [Reina_Sakiria](https://github.com/ReinaS-64892)
+- [lilNDMFMeshSimplifier](https://github.com/lilxyzw/lilNDMFMeshSimplifier) from [Lilxyzw](https://github.com/lilxyzw)
 
 ## Code of conduct
 
