@@ -16,31 +16,37 @@
 
 This list is listed the curated list of packages using NDMF.
 
-- [Modular Avatar](https://github.com/bdunderscore/modular-avatar) from [_bd](https://github.com/bdunderscore)
-- [Avatar Optimizer](https://github.com/anatawa12/AvatarOptimizer) from [Anatawa12](https://github.com/anatawa12)
-- [Prefabulous Avatar](https://github.com/hai-vr/prefabulous-avatar) from [Haï~](https://github.com/hai-vr)
-- [Animator As Code](https://github.com/hai-vr/animator-as-code-vrchat) from [Haï~](https://github.com/hai-vr)
-- [Avatar Menu Creater For MA](https://github.com/Narazaka/FloorAdjuster) from [Narazaka](https://github.com/Narazaka)
-- [Floor Adjuster](https://github.com/Azukimochi/LightLimitChangerForMA) from [Azukimochi](https://github.com/Azukimochi)
-- [Light Limit Changer](https://github.com/Azukimochi/LightLimitChangerForMA) from [Azukimochi](https://github.com/Azukimochi)
-- [FaceEmo](https://github.com/suzuryg/face-emo) from [Suzuryg](https://github.com/suzuryg)
-- [VRCQuestTools](https://github.com/kurotu/VRCQuestTools) from [Kurotu](https://github.com/kurotu)
-- [Dressing Tools](https://github.com/poi-vrc/DressingTools) from [Poi-vrc](https://github.com/poi-vrc)
-- [lilycalInventory](https://github.com/lilxyzw/lilycalInventory) from [Lilxyzw](https://github.com/lilxyzw)
+| Package Name | Author |
+| --- | --- |
+| [Modular Avatar](https://github.com/bdunderscore/modular-avatar) | [_bd](https://github.com/bdunderscore) |
+| [Avatar Optimizer](https://github.com/anatawa12/AvatarOptimizer) | [Anatawa12](https://github.com/anatawa12) |
+| [Prefabulous Avatar](https://github.com/hai-vr/prefabulous-avatar) | [Haï~](https://github.com/hai-vr) |
+| [Animator As Code](https://github.com/hai-vr/animator-as-code-vrchat) | [Haï~](https://github.com/hai-vr) |
+| [Avatar Menu Creater For MA](https://github.com/Narazaka/FloorAdjuster) | [Narazaka](https://github.com/Narazaka) |
+| [Floor Adjuster](https://github.com/Azukimochi/LightLimitChangerForMA) | [Azukimochi](https://github.com/Azukimochi) |
+| [Light Limit Changer](https://github.com/Azukimochi/LightLimitChangerForMA) | [Azukimochi](https://github.com/Azukimochi) |
+| [FaceEmo](https://github.com/suzuryg/face-emo) | [Suzuryg](https://github.com/suzuryg) |
+| [VRCQuestTools](https://github.com/kurotu/VRCQuestTools) | [Kurotu](https://github.com/kurotu) |
+| [Dressing Tools](https://github.com/poi-vrc/DressingTools) | [Poi-vrc](https://github.com/poi-vrc) |
+| [lilycalInventory](https://github.com/lilxyzw/lilycalInventory) | [Lilxyzw](https://github.com/lilxyzw) |
 
 ### Non FOSS packages
 
 This list contains validated awesome packages but that are not following the FOSS philosophy.
 
-- [Vixen](https://docs.hai-vr.dev/docs/products/vixen) from [Haï~](https://github.com/hai-vr)
+| Package Name | Author |
+| --- | --- |
+| [Vixen](https://docs.hai-vr.dev/docs/products/vixen) | [Haï~](https://github.com/hai-vr) |
 
 ### Upcoming packages
 
 This list contains packages that are still being worked on but not ready to be integrated in the curated list yet.
 
-- [NDMF mantis lod editor](https://github.com/hitsub/ndmf-mantis-lod-editor) from [Hitsub](https://github.com/hitsub)
-- [TexTransTool](https://github.com/ReinaS-64892/TexTransTool) from [Reina_Sakiria](https://github.com/ReinaS-64892)
-- [lilNDMFMeshSimplifier](https://github.com/lilxyzw/lilNDMFMeshSimplifier) from [Lilxyzw](https://github.com/lilxyzw)
+| Package Name | Author |
+| --- | --- |
+| [NDMF mantis lod editor](https://github.com/hitsub/ndmf-mantis-lod-editor) | [Hitsub](https://github.com/hitsub) |
+| [TexTransTool](https://github.com/ReinaS-64892/TexTransTool) | [Reina_Sakiria](https://github.com/ReinaS-64892) |
+| [lilNDMFMeshSimplifier](https://github.com/lilxyzw/lilNDMFMeshSimplifier) | [Lilxyzw](https://github.com/lilxyzw) |
 
 ## Code of conduct
 
