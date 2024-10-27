@@ -29,6 +29,7 @@ This list is listed the curated list of packages using NDMF.
 | [VRCQuestTools](https://github.com/kurotu/VRCQuestTools) | [Kurotu](https://github.com/kurotu) |
 | [Dressing Tools](https://github.com/poi-vrc/DressingTools) | [Poi-vrc](https://github.com/poi-vrc) |
 | [lilycalInventory](https://github.com/lilxyzw/lilycalInventory) | [Lilxyzw](https://github.com/lilxyzw) |
+| [Make It MMD](https://github.com/enitimeago/make-it-mmd) | [enitimeago](https://github.com/enitimeago) |
 
 ### Non FOSS packages
 
