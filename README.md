@@ -48,6 +48,7 @@ This list contains packages that are still being worked on but not ready to be i
 | [NDMF mantis lod editor](https://github.com/hitsub/ndmf-mantis-lod-editor) | [Hitsub](https://github.com/hitsub) |
 | [TexTransTool](https://github.com/ReinaS-64892/TexTransTool) | [Reina_Sakiria](https://github.com/ReinaS-64892) |
 | [lilNDMFMeshSimplifier](https://github.com/lilxyzw/lilNDMFMeshSimplifier) | [Lilxyzw](https://github.com/lilxyzw) |
+| [OneClickInventory](https://github.com/weasel-club/OneClickInventory) | [cstria0106](https://github.com/cstria0106) |
 
 ## Code of conduct
 
