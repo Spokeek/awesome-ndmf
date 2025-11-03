@@ -1,0 +1,29 @@
+{
+    "name":"Awesome NDMF Curated",
+    "id":"fr.spokeek.awesome-ndmf.curated",
+    "url":"https://github.com/Spokeek/awesome-ndmf#curated-packages",
+    "author":{
+        "email":"spokeek+awesome-ndmf@protonmail.com",
+        "name":"Spokeek",
+        "url":"https://shelter.moe/@spokeek"
+    },
+    "description":"A curated list of awesome NDMF packages i like.",
+    "infoLink":{
+        "url":"https://github.com/Spokeek/vpm-repository",
+        "text":"Check the listing on GitHub"
+    },
+    "githubRepos":[
+        "bdunderscore/ndmf",
+        "bdunderscore/modular-avatar",
+        "anatawa12/AvatarOptimizer",
+        "hai-vr/prefabulous-avatar",
+        "Narazaka/AvatarMenuCreaterForMA",
+        "Narazaka/FloorAdjuster",
+        "Azukimochi/LightLimitChangerForMA",
+        "suzuryg/face-emo",
+        "kurotu/VRCQuestTools",
+        "poi-vrc/DressingTools",
+        "lilxyzw/lilycalInventory",
+        "enitimeago/make-it-mmd"
+    ]
+}

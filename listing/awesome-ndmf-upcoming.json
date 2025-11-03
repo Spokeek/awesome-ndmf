@@ -1,0 +1,23 @@
+{
+    "name":"Awesome NDMF Upcoming [⚠️ May be unstable]",
+    "id":"fr.spokeek.awesome-ndmf.upcoming",
+    "url":"https://github.com/Spokeek/awesome-ndmf#upcoming-packages",
+    "author":{
+        "email":"spokeek+awesome-ndmf@protonmail.com",
+        "name":"Spokeek",
+        "url":"https://shelter.moe/@spokeek"
+    },
+    "description":"A curated list of awesome NDMF packages i like. This is the upcoming list, use at your own risk.",
+    "infoLink":{
+        "url":"https://github.com/Spokeek/vpm-repository",
+        "text":"Check the listing on GitHub"
+    },
+    "githubRepos":[
+        "bdunderscore/ndmf",
+        "bdunderscore/modular-avatar",
+        "hitsub/ndmf-mantis-lod-editor",
+        "ReinaS-64892/TexTransTool",
+        "lilxyzw/lilNDMFMeshSimplifier",
+        "weasel-club/OneClickInventory"
+    ]
+}
