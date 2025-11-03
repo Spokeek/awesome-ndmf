@@ -19,7 +19,7 @@ This list is listed the curated list of packages using NDMF.
 | Package Name | Author |
 | --- | --- |
 | [Modular Avatar](https://github.com/bdunderscore/modular-avatar) | [_bd](https://github.com/bdunderscore) |
-| [Avatar Optimizer](https://github.com/anatawa12/AvatarOptimizer) | [Anatawa12](https://github.com/anatawa12) |
+| [AAO: Avatar Optimizer](https://github.com/anatawa12/AvatarOptimizer) | [Anatawa12](https://github.com/anatawa12) |
 | [Prefabulous Avatar](https://github.com/hai-vr/prefabulous-avatar) | [Haï~](https://github.com/hai-vr) |
 | [Animator As Code](https://github.com/hai-vr/animator-as-code-vrchat) | [Haï~](https://github.com/hai-vr) |
 | [Avatar Menu Creater For MA](https://github.com/Narazaka/AvatarMenuCreaterForMA) | [Narazaka](https://github.com/Narazaka) |
@@ -30,6 +30,7 @@ This list is listed the curated list of packages using NDMF.
 | [Dressing Tools](https://github.com/poi-vrc/DressingTools) | [Poi-vrc](https://github.com/poi-vrc) |
 | [lilycalInventory](https://github.com/lilxyzw/lilycalInventory) | [Lilxyzw](https://github.com/lilxyzw) |
 | [Make It MMD](https://github.com/enitimeago/make-it-mmd) | [enitimeago](https://github.com/enitimeago) |
+| [Meshia.MeshSimplification](https://github.com/RamType0/Meshia.MeshSimplification) | [Ram.Type-0](https://github.com/RamType0) |
 
 ### Non FOSS packages
 
@@ -47,7 +48,7 @@ This list contains packages that are still being worked on but not ready to be i
 | --- | --- |
 | [NDMF mantis lod editor](https://github.com/hitsub/ndmf-mantis-lod-editor) | [Hitsub](https://github.com/hitsub) |
 | [TexTransTool](https://github.com/ReinaS-64892/TexTransTool) | [Reina_Sakiria](https://github.com/ReinaS-64892) |
-| [lilNDMFMeshSimplifier](https://github.com/lilxyzw/lilNDMFMeshSimplifier) | [Lilxyzw](https://github.com/lilxyzw) |
+| ~~[lilNDMFMeshSimplifier](https://github.com/lilxyzw/lilNDMFMeshSimplifier)~~ (discontinued) | [Lilxyzw](https://github.com/lilxyzw) |
 | [OneClickInventory](https://github.com/weasel-club/OneClickInventory) | [cstria0106](https://github.com/cstria0106) |
 
 ## Code of conduct
