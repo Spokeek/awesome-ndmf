@@ -19,7 +19,7 @@ This list is listed the curated list of packages using NDMF.
 | Package Name | Author |
 | --- | --- |
 | [Modular Avatar](https://github.com/bdunderscore/modular-avatar) | [_bd](https://github.com/bdunderscore) |
-| [Avatar Optimizer](https://github.com/anatawa12/AvatarOptimizer) | [Anatawa12](https://github.com/anatawa12) |
+| [AAO: Avatar Optimizer](https://github.com/anatawa12/AvatarOptimizer) | [Anatawa12](https://github.com/anatawa12) |
 | [Prefabulous Avatar](https://github.com/hai-vr/prefabulous-avatar) | [Haï~](https://github.com/hai-vr) |
 | [Animator As Code](https://github.com/hai-vr/animator-as-code-vrchat) | [Haï~](https://github.com/hai-vr) |
 | [Avatar Menu Creater For MA](https://github.com/Narazaka/AvatarMenuCreaterForMA) | [Narazaka](https://github.com/Narazaka) |
